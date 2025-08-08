@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 吴冰冰
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:Wu Bingbing
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bing Wu
+last_name: Bing
 
 # Status emoji
 status:
@@ -24,8 +24,8 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University
+    url: https://www.ecust.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +47,8 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - History
 
 education:
   - area: PhD Artificial Intelligence
