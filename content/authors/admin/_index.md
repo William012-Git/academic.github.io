@@ -3,7 +3,7 @@
 title: 吴冰冰
 
 # Name pronunciation (optional)
-name_pronunciation:Wu Bingbing
+name_pronunciation: Wu Bingbing
 
 # Full name (for SEO)
 first_name: Bing Wu
